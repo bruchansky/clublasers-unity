@@ -17,6 +17,8 @@ Simple code to develop club lasers in Unity
 ## Configuration examples
 
 ### Classic lasers
+![Laser combos 1](https://github.com/bruchansky/clublasers-unity/blob/main/laser1.gif)
+
 Combo 1
 - Initial translation: 0,0,0
 - Initial rotation: 30,0,0
@@ -37,6 +39,7 @@ Combo 3
 
 
 ### Cylindrical lasers
+![Laser combos 2](https://github.com/bruchansky/clublasers-unity/blob/main/laser2.gif)
 
 Combo 1
 - Initial translation: 2,0,0
@@ -57,6 +60,7 @@ Combo 3
 - Increments before switching direction: 8
 
 ### Plane lasers
+![Laser combos 3](https://github.com/bruchansky/clublasers-unity/blob/main/laser3.gif)
 
 Combo 1
 - Initial translation: 0,0,0
