@@ -1,6 +1,9 @@
 # Club Lasers in Unity
 Simple code to develop club lasers in Unity
 
+The code is used in the [Immersions VJ](https://bruchansky.name/immersionsvj/) app.
+Get the app on the [App Store](https://apps.apple.com/app/immersions-vj/id6445908343).
+
 ## Installation
 - Download the clublaser package
 - Import the package into your project. It will add a prefab and a script to your assets
